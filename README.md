@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects that help me learn!
 - 📫 How to reach me chung01@seas.upenn.edu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Love grappling sports
+
 
 <!---
 dawoon-chung/dawoon-chung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
