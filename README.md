@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @dawoon-chung
-- 👀 I’m interested in finance and tech
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on any projects that help me learn!
-- 📫 How to reach me chung01@seas.upenn.edu
-- 😄 Pronouns: he/him
+blurb
 
 
 <!---
